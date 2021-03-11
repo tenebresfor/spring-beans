@@ -5,6 +5,7 @@ import app.model.AnimalsCage;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
+// Прочитайте о связывании бинов по имени и свяжите AnimalCage c бином Dog через абстрактный класс Animal.
 public class Application {
 
     public static void main(String[] args) {
